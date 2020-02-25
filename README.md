@@ -17,8 +17,11 @@ services.AddHibernate(Configuration) // Starting point allowing access to IConfi
         .Build(); // Register ISessionFactory as singleton and ISession as scoped (Step 4)          
         // Use one version of step 3
 ```
+*You can now inject ISession into your classes*
+
 **Configure Services - Unit Of Work**
 -----------------------------------
 ```
 services.AddHibernateUnitOfWork();
 ```
+*You can now inject IUnitOfWork into your classes*
