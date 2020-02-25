@@ -1,0 +1,11 @@
+C:\Users\Crash\source\repos\HibernateDemo\UnitOfWork.NetCore.NHibernate\bin\Debug\netstandard2.0\UnitOfWork.NetCore.NHibernate.deps.json
+C:\Users\Crash\source\repos\HibernateDemo\UnitOfWork.NetCore.NHibernate\bin\Debug\netstandard2.0\UnitOfWork.NetCore.NHibernate.dll
+C:\Users\Crash\source\repos\HibernateDemo\UnitOfWork.NetCore.NHibernate\obj\Debug\netstandard2.0\UnitOfWork.NetCore.NHibernate.AssemblyInfoInputs.cache
+C:\Users\Crash\source\repos\HibernateDemo\UnitOfWork.NetCore.NHibernate\obj\Debug\netstandard2.0\UnitOfWork.NetCore.NHibernate.AssemblyInfo.cs
+C:\Users\Crash\source\repos\HibernateDemo\UnitOfWork.NetCore.NHibernate\bin\Debug\netstandard2.0\UnitOfWork.NetCore.NHibernate.pdb
+C:\Users\Crash\source\repos\HibernateDemo\UnitOfWork.NetCore.NHibernate\bin\Debug\netstandard2.0\UnitOfWork.NetCore.dll
+C:\Users\Crash\source\repos\HibernateDemo\UnitOfWork.NetCore.NHibernate\bin\Debug\netstandard2.0\UnitOfWork.NetCore.pdb
+C:\Users\Crash\source\repos\HibernateDemo\UnitOfWork.NetCore.NHibernate\obj\Debug\netstandard2.0\UnitOfWork.NetCore.NHibernate.csprojAssemblyReference.cache
+C:\Users\Crash\source\repos\HibernateDemo\UnitOfWork.NetCore.NHibernate\obj\Debug\netstandard2.0\UnitOfWork.NetCore.NHibernate.csproj.CopyComplete
+C:\Users\Crash\source\repos\HibernateDemo\UnitOfWork.NetCore.NHibernate\obj\Debug\netstandard2.0\UnitOfWork.NetCore.NHibernate.dll
+C:\Users\Crash\source\repos\HibernateDemo\UnitOfWork.NetCore.NHibernate\obj\Debug\netstandard2.0\UnitOfWork.NetCore.NHibernate.pdb

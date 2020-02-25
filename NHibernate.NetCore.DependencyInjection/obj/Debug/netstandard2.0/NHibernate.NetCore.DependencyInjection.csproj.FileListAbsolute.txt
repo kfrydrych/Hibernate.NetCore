@@ -1,0 +1,8 @@
+C:\Users\Crash\source\repos\HibernateDemo\NHibernate.NetCore.DependencyInjection\bin\Debug\netstandard2.0\NHibernate.NetCore.DependencyInjection.deps.json
+C:\Users\Crash\source\repos\HibernateDemo\NHibernate.NetCore.DependencyInjection\bin\Debug\netstandard2.0\NHibernate.NetCore.DependencyInjection.dll
+C:\Users\Crash\source\repos\HibernateDemo\NHibernate.NetCore.DependencyInjection\obj\Debug\netstandard2.0\NHibernate.NetCore.DependencyInjection.csprojAssemblyReference.cache
+C:\Users\Crash\source\repos\HibernateDemo\NHibernate.NetCore.DependencyInjection\obj\Debug\netstandard2.0\NHibernate.NetCore.DependencyInjection.AssemblyInfoInputs.cache
+C:\Users\Crash\source\repos\HibernateDemo\NHibernate.NetCore.DependencyInjection\obj\Debug\netstandard2.0\NHibernate.NetCore.DependencyInjection.AssemblyInfo.cs
+C:\Users\Crash\source\repos\HibernateDemo\NHibernate.NetCore.DependencyInjection\bin\Debug\netstandard2.0\NHibernate.NetCore.DependencyInjection.pdb
+C:\Users\Crash\source\repos\HibernateDemo\NHibernate.NetCore.DependencyInjection\obj\Debug\netstandard2.0\NHibernate.NetCore.DependencyInjection.dll
+C:\Users\Crash\source\repos\HibernateDemo\NHibernate.NetCore.DependencyInjection\obj\Debug\netstandard2.0\NHibernate.NetCore.DependencyInjection.pdb

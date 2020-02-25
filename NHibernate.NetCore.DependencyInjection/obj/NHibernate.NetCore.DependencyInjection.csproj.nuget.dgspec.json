@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Crash\\source\\repos\\Hibernate.NetCore\\NHibernate.NetCore.DependencyInjection\\NHibernate.NetCore.DependencyInjection.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Crash\\source\\repos\\Hibernate.NetCore\\NHibernate.NetCore.DependencyInjection\\NHibernate.NetCore.DependencyInjection.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Crash\\source\\repos\\Hibernate.NetCore\\NHibernate.NetCore.DependencyInjection\\NHibernate.NetCore.DependencyInjection.csproj",
+        "projectName": "NHibernate.NetCore.DependencyInjection",
+        "projectPath": "C:\\Users\\Crash\\source\\repos\\Hibernate.NetCore\\NHibernate.NetCore.DependencyInjection\\NHibernate.NetCore.DependencyInjection.csproj",
+        "packagesPath": "C:\\Users\\Crash\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Crash\\source\\repos\\Hibernate.NetCore\\NHibernate.NetCore.DependencyInjection\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Crash\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "P:\\Development\\Nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "FluentNHibernate": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

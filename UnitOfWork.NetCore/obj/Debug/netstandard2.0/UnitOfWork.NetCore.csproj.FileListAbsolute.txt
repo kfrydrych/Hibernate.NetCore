@@ -1,0 +1,7 @@
+C:\Users\Crash\source\repos\HibernateDemo\UnitOfWork.NetCore\bin\Debug\netstandard2.0\UnitOfWork.NetCore.deps.json
+C:\Users\Crash\source\repos\HibernateDemo\UnitOfWork.NetCore\bin\Debug\netstandard2.0\UnitOfWork.NetCore.dll
+C:\Users\Crash\source\repos\HibernateDemo\UnitOfWork.NetCore\bin\Debug\netstandard2.0\UnitOfWork.NetCore.pdb
+C:\Users\Crash\source\repos\HibernateDemo\UnitOfWork.NetCore\obj\Debug\netstandard2.0\UnitOfWork.NetCore.AssemblyInfoInputs.cache
+C:\Users\Crash\source\repos\HibernateDemo\UnitOfWork.NetCore\obj\Debug\netstandard2.0\UnitOfWork.NetCore.AssemblyInfo.cs
+C:\Users\Crash\source\repos\HibernateDemo\UnitOfWork.NetCore\obj\Debug\netstandard2.0\UnitOfWork.NetCore.dll
+C:\Users\Crash\source\repos\HibernateDemo\UnitOfWork.NetCore\obj\Debug\netstandard2.0\UnitOfWork.NetCore.pdb
