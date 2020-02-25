@@ -16,4 +16,3 @@ services.AddHibernate(Configuration) // Starting point allowing access to IConfi
         })
         .Build(); // Register ISessionFactory as singleton and ISession as scoped (Step 4)          
         // Use one version of step 3
-        ```
