@@ -18,6 +18,8 @@ services.AddHibernate(Configuration) // Starting point allowing access to IConfi
         // Use one version of step 3
 ```
 *You can now inject ISession into your classes*
+Required:
+* NHibernate.NetCore.DependencyInjection
 
 **Configure Services - Unit Of Work**
 -----------------------------------
@@ -25,3 +27,6 @@ services.AddHibernate(Configuration) // Starting point allowing access to IConfi
 services.AddHibernateUnitOfWork();
 ```
 *You can now inject IUnitOfWork into your classes*
+Required:
+* UnitOfWork.NetCore
+* UnitOfWork.NetCore.NHibernate
