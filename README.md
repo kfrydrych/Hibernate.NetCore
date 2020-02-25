@@ -1,7 +1,7 @@
 # Hibernate.NetCore
 NHibernate helpers for .NET Core
 
-**Fluent NHibernate**
+**Configure Services - Fluent NHibernate**
 -----------------------------------
 ```
 services.AddHibernate(Configuration) // Starting point allowing access to IConfiguration (Step 1)
@@ -17,7 +17,7 @@ services.AddHibernate(Configuration) // Starting point allowing access to IConfi
         .Build(); // Register ISessionFactory as singleton and ISession as scoped (Step 4)          
         // Use one version of step 3
 ```
-**Fluent NHibernate**
+**Configure Services - Unit Of Work**
 -----------------------------------
 ```
 services.AddHibernateUnitOfWork();
