@@ -3,6 +3,7 @@ NHibernate helpers for .NET Core
 
 **Fluent NHibernate**
 -----------------------------------
+```
 services.AddHibernate(Configuration) // Starting point allowing access to IConfiguration (Step 1)
         .UseSqlDatabaseWithConnectionStringName("DefaultConnection") // Sets SQL Driver and points to the right connection string (Step 2)
         .WithMappingsFromAssemblyOf<Startup>() // Uses class as a marker for assembly containing mappings (Step 3a)
@@ -15,3 +16,4 @@ services.AddHibernate(Configuration) // Starting point allowing access to IConfi
         })
         .Build(); // Register ISessionFactory as singleton and ISession as scoped (Step 4)          
         // Use one version of step 3
+        ```
